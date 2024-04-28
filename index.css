@@ -1,0 +1,16 @@
+ /* table{
+    display: flex;
+    justify-content: space-evenly;
+    
+} */
+tr{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 235px;  
+    
+}
+h1{
+    text-align: center;
+}
+
+
